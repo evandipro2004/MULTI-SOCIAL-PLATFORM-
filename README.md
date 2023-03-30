@@ -19,6 +19,17 @@ Mega Link : ⬇️ https://tinyurl.com/2h4ulh36 ⬇️
 🔐 MEGA DECRYPTION KEY: w957jEMNKVNPUX2SIOWhFGmeVjukyDgnKzjiwL-u9dI
 
 
+🏳️ Installation by "TERMUX" 🏳️
+
+•git clone https://github.com/evandipro2004/MULTI-SOCIAL-PLATFORM-
+
+•cd MULTI-SOCIAL-PLATFORM-
+
+•cp MultiSocialPlatform.apk /sdcard
+
+
+🚩~Then go to your files and you will found the apk. Enjoy..🥳
+
 🏳️ Or you may download directly from the repository file.🏳️
 
 
