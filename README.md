@@ -10,11 +10,13 @@ usage opportunities in one app.
          
         🏳️Google Drive Link🏳️        
 
-⬇️  https://tinyurl.com/2nycqj3e ⬇️
+Link : ⬇️  https://tinyurl.com/2nycqj3e ⬇️
 
-        🏳️Mega Drive Link🏳️
+ 🏳️Mega Drive Link and DECRYPTION KEY🏳️
 
-⬇️ https://tinyurl.com/2h4ulh36 ⬇️
+Link : ⬇️ https://tinyurl.com/2h4ulh36 ⬇️
+🔐 DECRYPTION KEY: w957jEMNKVNPUX2SIOWhFGmeVjukyDgnKzjiwL-u9dI
+
 
 🏳️ Or you may download directly from the repository file.🏳️
 
