@@ -1,7 +1,8 @@
 # MULTI-SOCIAL-PLATFORM-
 
 This app will be very useful for those whose phones have less ram or older models, and who cannot use many social media.
- Many social media usage opportunities in one app.
+ Many social media like Facebook, Inatagram, Telegram, Flickr, Youtube, Youtube video downloader, Termux help line ,
+usage opportunities in one app.
 
 
 
@@ -19,3 +20,5 @@ So play protect can show. Just ignore it.  Press install anyway . You can check 
 
 
 ⬇️  https://tinyurl.com/2j92gyzy ⬇️
+
+
