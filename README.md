@@ -9,7 +9,7 @@ usage opportunities in one app.
 ⬇️Download the "MULTI SOCIAL PLATFORM" APK FROM THE BELOW LINK.
 
 
-⬇️  https://tinyurl.com/2j92gyzy ⬇️
+⬇️  https://tinyurl.com/2nycqj3e ⬇️
 
 
 🚫 This app is not yet uploaded to play store. 
