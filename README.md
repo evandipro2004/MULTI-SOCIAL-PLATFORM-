@@ -20,7 +20,7 @@ Mega Link : ⬇️ https://tinyurl.com/2h4ulh36 ⬇️
 
 
 
-#🏳️ ↓↓Installation by "TERMUX"↓↓ 🏳️
+# 🏳️ ↓↓Installation by "TERMUX"↓↓ 🏳️
 
 
 
